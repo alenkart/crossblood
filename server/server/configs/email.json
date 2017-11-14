@@ -1,9 +1,9 @@
 {
     "service": "Gmail",
     "host": "smtp.gmail.com",
-    "from": "Crossblood Team <info.crossblood@gmail.com>",
+    "from": "Crossblood Team <example@gmail.com>",
     "auth": {
-        "user": "info.crossblood@gmail.com",
-        "pass": "infocrossblood"
+        "user": "example@gmail.com",
+        "pass": ""
     }
 }
