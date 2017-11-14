@@ -1,0 +1,23 @@
+.ArcGIS,
+.ArcGIS #viewDiv {
+  width: 100%;
+  height: 100vh;
+}
+
+.ArcGIS .arcGis-popup {
+  padding: 10px;
+  color: #575757;
+  background: #E8E8E8;
+  border-radius: 4px;
+}
+
+.ArcGIS .arcGis-popup span {
+  width: 100%;
+  display: block;
+  font-size: 1.5em;
+  margin-top: 8px;
+} 
+
+.ArcGIS .arcGis-popup-hidden {
+  background: red;
+}

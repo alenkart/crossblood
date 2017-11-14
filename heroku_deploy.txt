@@ -1,0 +1,9 @@
+//https://crossblood-client.herokuapp.com
+git add .
+git commit -m "V n1..n"
+git push heroku master
+
+//https://crossblood-server.herokuapp.com
+git add .
+git commit -m "V n1..n"
+git push heroku master

@@ -1,0 +1,20 @@
+{	
+	"server": {
+		"host" : "http://localhost",
+		"port" : 3001
+	},
+	"client": {	
+		"host" : "http://localhost",
+		"port" : 3000
+	},
+	"database" : "",
+	"email" : {
+	    "service": "",
+	    "host": "",
+	    "from": "",
+	    "auth": {
+	        "user": "",
+	        "pass": ""
+	    }
+	}
+}

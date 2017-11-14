@@ -1,0 +1,28 @@
+.Contact {
+  text-align: center;
+  overflow: hidden;
+  background-color: #f1f1f1; 
+  position: relative;
+  padding: 10px 35px;
+  transition: background-color 0.4s linear;
+}
+
+.Contact:hover {
+  color: #FFFFFF;
+  background: #282828;
+  cursor: pointer;
+}
+
+.Contact-bloodGroup {
+  color: #fff;
+  padding: 3px 4px;
+  border-radius: 4px;
+  background: #434343;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+}
+
+.Contact p {
+  margin-bottom: 4px; 
+}

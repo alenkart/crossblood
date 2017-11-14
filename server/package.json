@@ -1,0 +1,19 @@
+{
+  "name": "crossblood-server",
+  "version": "1.0.0",
+  "description": "crossblood server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set NODE_ENV=production&&node index.js",
+    "local": "set NODE_ENV=development&&node index.js"
+  },
+  "author": "Alenkart Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "nodemailer": "^4.0.1"
+  }
+}
